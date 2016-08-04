@@ -1,0 +1,15 @@
+* {
+  font-family: 'Comfortaa', cursive;
+}
+
+#header img {
+  max-height: 75%;
+}
+
+#header h2 {
+  font-size: 150%;
+}
+
+.title-logo {
+  padding-right: 20px;
+}
